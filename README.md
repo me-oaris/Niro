@@ -1,7 +1,7 @@
 <h1 align="center">
 <img width="75" src="https://raw.githubusercontent.com/me-oaris/Niro/refs/heads/main/Assets/niro.png" alt="Niro Bot">
 
-niro
+Niro
 </h1>
 
 <p align="center">
