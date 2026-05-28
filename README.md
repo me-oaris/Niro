@@ -14,12 +14,12 @@ Niro is built with a focus on **Premium UI/UX**. Every interaction is designed u
 
 ## Features
 
-- **🛡️ Advanced Moderation**: Full suite of tools including Ban, Kick, Mute, Warn, and Lock/Unlock.
-- **⚛️ Channel Nuke**: Instantly clone and recreate channels to clear clutter while preserving permissions.
-- **⭐ Leveling System**: Interactive rank cards with realtime theme customization (Hex & Presets).
-- **🎉 Interactive Giveaways**: Fully managed giveaways with real-time entry counters and winner rerolls.
-- **📜 Professional Logging**: Automated logging for message edits, deletions, and moderator actions.
-- **⚙️ Dynamic Setup**: Easy-to-use `/setup` menu for configuring welcome messages, roles, and log channels.
+- **Advanced Moderation**: Full mod tools including Ban, Kick, Mute, Warn, and Lock/Unlock.
+- **Channel Nuke**: Instantly clone and recreate channels to clear clutter while preserving permissions.
+- **Leveling System**: Interactive rank cards with realtime theme customization (Hex & Presets).
+- **Interactive Giveaways**: Fully managed giveaways with real-time entry counters and winner rerolls.
+- **Professional Logging**: Automated logging for message edits, deletions, and moderator actions.
+- **Dynamic Setup**: Easy-to-use `/setup` menu for configuring welcome messages, roles, and log channels.
 
 ## Setup
 
@@ -39,9 +39,4 @@ Niro is built with a focus on **Premium UI/UX**. Every interaction is designed u
 
 ## Running Locally
 
-Niro is designed to be self-hosted. Once running, use the `/setup` command in your server to initialize your moderation roles and logging preferences. Your leveling data and settings are stored locally in a robust SQLite database (`data/niro.db`).
-
-## License
-
-This project is licensed under the AGPL-3.0.
-Additional attribution requirements apply — see the `NOTICE` file for details.
+Niro is designed to be self-hosted. Once running, use the `/setup` command in your server to initialize your moderation roles and logging preferences. Your leveling data and settings are stored locally in a SQLite database (`data/niro.db`).
